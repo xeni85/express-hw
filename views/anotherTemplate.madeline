@@ -3,6 +3,7 @@
 </head>
 <body>
 <header>#message#</header>
+<img src=#images# />
 #content#
-<button #onClick#>Switcheroo</button>
+<button onClick=#clickSwitch#>Switcheroo</button>
 </body>
